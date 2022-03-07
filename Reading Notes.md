@@ -1,4 +1,4 @@
-# 算法图解
+# Grokking Algorithm
 ## 1 Introduction 
 ### 1-1 introduction 
 #### An algorithm is a set of instructions for accomplishing a task
